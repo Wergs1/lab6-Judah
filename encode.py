@@ -16,3 +16,4 @@ def encode(inpu):
 while run == True:
     raw = input("Enter value to encode: ")
     print(str(encode(raw)))
+#Please help my mental state :)
